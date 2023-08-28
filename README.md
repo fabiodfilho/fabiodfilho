@@ -5,6 +5,8 @@
 
 ## Skills:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodfilho&layout=compact)](https://github.com/USERNAME/github-readme-stats)
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/>
+          
 
           
           
