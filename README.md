@@ -14,7 +14,11 @@
 <a href="https://www.linkedin.com/in/f%C3%A1bio-filho-55a59b233/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>          
           
-          
+<div>
+<a href="https://github.com/fabiodfilho">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodfilho&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiodfilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>                  
           
           
 
