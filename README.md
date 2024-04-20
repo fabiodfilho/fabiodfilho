@@ -4,9 +4,11 @@
 
 • 👀 I’m interested in being a front end dev
 
-• 🌱 I’m currently learning, Java and Spring 
+• 🌱 I’m currently learning, HTML, CSS & JavaScript
 
-• 📫 How to reach me: Linkedlin: https://www.linkedin.com/in/f%C3%A1bio-filho-55a59b233
+• 📫 How to reach me: 
+Linkedlin: https://www.linkedin.com/in/f%C3%A1bio-filho-55a59b233
+Behance: https://www.behance.net/fabiodfilho
 
 ## 🚀 My Skills:
 [![My Skills](https://skillicons.dev/icons?i=mysql,java,py,js,html,css)](https://skillicons.dev)
