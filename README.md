@@ -7,8 +7,8 @@
 • 🌱 I’m currently learning, HTML, CSS & JavaScript
 
 • 📫 How to reach me: 
-Linkedlin: https://www.linkedin.com/in/f%C3%A1bio-filho-55a59b233
-Behance: https://www.behance.net/fabiodfilho
+Linkedlin: https://www.linkedin.com/in/fabiodantasfilho
+My Website: https://www.fabiodantasdev.com.br
 
 ## 🚀 My Skills:
 [![My Skills](https://skillicons.dev/icons?i=mysql,java,py,js,html,css)](https://skillicons.dev)
