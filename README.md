@@ -43,7 +43,7 @@ Certified in **Google UX Design**, I combine backend robustness with user-center
 
    </td>
    <td valign="middle" width="42%" align="center">
-     <img width="95%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Coding Illustration" />
+     <img width="85%" src="https://fabiodantasdev.com.br/assets/images/fabioavatar.png" alt="Fábio Dantas Avatar" />
    </td>
   </tr>
 </table>
